@@ -45,11 +45,6 @@ The objective was to extract actionable business insights using Python-based dat
 
 ---
 
-
-## Project Structure
-
----
-
 ## Power BI Dashboard
 
 ### Executive Overview
@@ -57,3 +52,4 @@ The objective was to extract actionable business insights using Python-based dat
 
 ### Detailed Insights
 ![Dashboard Page 2](dashboard_page2.png)
+
